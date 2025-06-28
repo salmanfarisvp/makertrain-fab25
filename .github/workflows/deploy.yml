@@ -21,6 +21,10 @@ jobs:
       - name: Build website
         run: npm run build
 
+      - name: Set up custom domain
+        run: |
+          echo 'makertrain.pro' > ./build/CNAME  # Ensure the custom domain is included in the build folder
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
