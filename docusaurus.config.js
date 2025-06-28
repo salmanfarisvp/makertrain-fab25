@@ -27,8 +27,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Hackster Pro', // Usually your GitHub org/user name.
-  projectName: 'MakerTrain', // Usually your repo name.
+  organizationName: 'salmanfarisvp', // Usually your GitHub org/user name.
+  projectName: 'makertrain-fab25', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
