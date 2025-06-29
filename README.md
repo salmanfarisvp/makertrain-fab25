@@ -20,20 +20,20 @@ This documentation is organized into comprehensive sections:
 
 ### 📋 Prerequisites
 Essential setup and preparation materials:
-- **[Install Tools](/prerequisites/install-tools)** - Development environment setup
-- **[Introduction to Thingy:91X](/prerequisites/introduction-to-thingy91x)** - Hardware overview and capabilities
+- **[Install Tools](docs/prerequisites/install-tools)** - Development environment setup
+- **[Introduction to Thingy:91X](docs/prerequisites/introduction-to-thingy91x)** - Hardware overview and capabilities
 
 ### 🛠️ Guides
 Step-by-step project tutorials:
-- **[Basic GPIO with nRF91](/guides/basic-gpio-nrf91)** - Fundamental GPIO operations
-- **[Blink LED](/guides/blink-led)** - Your first embedded project
-- **[Environmental Monitoring](/guides/build-a-environmental-monitoring)** - Sensor integration
-- **[On Track with Thingy:91](/guides/on-track-with-thingy91)** - GPS and tracking features
-- **[Thingy:91X Rescue Guide](/guides/thingy91x-rescue-guide)** - Troubleshooting and recovery
-- **[Escape to Prague](/guides/escape-to-prague)** - Advanced cellular connectivity
+- **[Basic GPIO with nRF91](docs/guides/basic-gpio-nrf91)** - Fundamental GPIO operations
+- **[Blink LED](docs/guides/blink-led)** - Your first embedded project
+- **[Environmental Monitoring](docs/guides/build-a-environmental-monitoring)** - Sensor integration
+- **[On Track with Thingy:91](docs/guides/on-track-with-thingy91)** - GPS and tracking features
+- **[Thingy:91X Rescue Guide](docs/guides/thingy91x-rescue-guide)** - Troubleshooting and recovery
+- **[Escape to Prague](docs/guides/escape-to-prague)** - Advanced cellular connectivity
 
 ### 🚀 Getting Started
-Begin with the **[Welcome to Maker Train](/)** page for workshop overview and schedule.
+Begin with the **[Welcome to Maker Train](docs/welcome-to-maker-train)** page for workshop overview and schedule.
 
 ## 🛠️ Development Setup
 
@@ -62,20 +62,8 @@ npm run start
 # Build for production
 npm run build
 
-# Serve production build locally
-npm run serve
-
-# Deploy to GitHub Pages
-npm run deploy
-
 # Clear cache
 npm run clear
-
-# Generate translations
-npm run write-translations
-
-# Generate heading IDs
-npm run write-heading-ids
 ```
 
 ### Live Development
@@ -108,35 +96,6 @@ We welcome contributions to improve the workshop documentation! Here's how to co
 - Optimize image sizes (prefer PNG for screenshots, JPG for photos)
 - Include alt text for accessibility
 
-### Code Block Standards
-
-```markdown
-```bash
-# For terminal commands
-npm install
-```
-
-```c
-// For C/C++ code examples
-#include <zephyr.h>
-```
-
-```json
-// For configuration files
-{
-  "key": "value"
-}
-```
-```
-
-### Pull Request Process
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-guide`)
-3. Make your changes and test locally
-4. Commit with descriptive messages
-5. Push to your fork and create a pull request
-6. Ensure all checks pass before requesting review
 
 ## 🚀 Deployment
 
@@ -145,63 +104,6 @@ npm install
 - **Trigger:** Every push to the main branch
 - **Platform:** GitHub Pages with custom domain
 
-### Manual Deployment
-```bash
-# Build and deploy to GitHub Pages
-npm run deploy
-```
-
-### Environment Configuration
-- **Base URL:** `/` (root domain)
-- **Production URL:** `https://makertrain.pro/`
-- **GitHub Pages:** Enabled with custom CNAME
-
-## 🏗️ Technical Architecture
-
-### Built With
-- **[Docusaurus v3.8.1](https://docusaurus.io/)** - Modern static site generator
-- **React 19** - Component-based UI framework
-- **MDX** - Markdown with JSX support
-- **Prism** - Syntax highlighting for code blocks
-
-### Key Features
-- 📱 **Responsive Design** - Mobile-friendly documentation
-- 🔍 **Search Functionality** - Full-text search across all content
-- 🌙 **Dark Mode Support** - Automatic theme switching
-- 📊 **Analytics Ready** - Performance tracking capabilities
-- ⚡ **Fast Loading** - Optimized static site generation
-
-### File Structure
-```
-makertrain-fab25/
-├── docs/                     # Documentation content
-│   ├── guides/              # Workshop tutorials
-│   ├── prerequisites/       # Setup requirements
-│   └── welcome-to-maker-train.md
-├── src/                     # React components and pages
-├── static/                  # Static assets (images, files)
-├── docusaurus.config.js     # Site configuration
-├── sidebars.js             # Navigation structure
-└── package.json            # Dependencies and scripts
-```
-
-## 🤝 Community & Support
-
-### Workshop Organizers
-- **Jinger Zeng** - [Hackster.io, Head of Applied Innovation Lab](https://www.linkedin.com/in/jingerzeng/)
-- **Sachin Soni** - [Founder techiesms](https://www.linkedin.com/in/techiesms/)
-- **Salman Faris** - [Co-founder MakerGram](https://www.linkedin.com/in/salmanfarisvp/)
-
-### Resources
-- **Workshop Site:** [makertrain.pro](https://makertrain.pro/)
-- **GitHub Repository:** [salmanfarisvp/makertrain-fab25](https://github.com/salmanfarisvp/makertrain-fab25)
-- **FAB25 Event:** [fab25.fabevent.org](https://fab25.fabevent.org/)
-- **Hackster.io:** [hackster.io](https://hackster.io/)
-
-### Getting Help
-- Create GitHub issues for documentation bugs or suggestions
-- Join workshop sessions for hands-on support
-- Connect with the community through FAB25 channels
 
 ## 📄 License
 
