@@ -1,0 +1,8 @@
+{
+  "label": "📋 Prerequisites",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Install the necessary software and tools for the workshop."
+  }
+}
