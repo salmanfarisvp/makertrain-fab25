@@ -3,46 +3,49 @@ sidebar_position: 1
 slug: /
 ---
 
-# Introduction
+# 🍀 Welcome to Maker Train!
 
-Let's discover **Docusaurus in less than 5 minutes**.
 
-## Getting Started
+**MakerTrain** is a hands-on workshop series designed to help you explore and build real-world IoT and embedded systems projects using cellular-connected hardware, the Nordic Thingy:91X.
 
-Get started by **creating a new site**.
+This workshop is part of the **FAB25 MakerTrain Experience** and is organized by **Jinger Zeng**, **Sachin Soni**, and **Salman Faris** passionate community leaders and makers who are excited to share their knowledge and help you get started with powerful tools and ideas.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+In this workshop, you'll explore the [Nordic Thingy:91X](https://www.nordicsemi.com/Products/Development-hardware/Nordic-Thingy-91-X) to build connected solutions using cellular, GNSS, and sensor technologies. You'll also get introduced to key concepts in IoT, data transmission, and hardware prototyping using  [Zephyr RTOS](https://www.zephyrproject.org//).
 
-### What you'll need
+![Maker Train Poster](../static/img/introduction/workshop-poster.png)
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+We have two workshops in this series:
 
-## Generate a new site
+- **Workshop 1**
 
-Generate a new Docusaurus site using the **classic template**.
+[![Workshop 1 Poster](../static/img/introduction/workshop-one.png)](https://fab25.fabevent.org/programs/schedule?day=2025-07-07&title=hackster-iot-workshop-a-hands-on-journey-with-nordic-thingy91x-day-1&event=9ab05216-9ba8-412a-9e84-4e74799e6c6e)
 
-The classic template will automatically be added to your project after you run the command:
+- **Workshop 2**
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+[![Workshop 1 Poster](../static/img/introduction/workshop-two.png)](https://fab25.fabevent.org/programs/schedule?day=2025-07-11&title=hackster-iot-workshop-a-hands-on-journey-with-nordic-thingy91x-day-2&event=60f3eba6-f920-4c08-a3f0-154487750afd)
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+## What You'll Learn
 
-## Start your site
+- Set up and use Nordic Thingy:91X
+- Build projects using Zephyr RTOS
+- Learn how to use Thingy:91X sensors and peripherals
+- Explore real-world use cases and prototype your own solution
 
-Run the development server:
+## What You'll Need
 
-```bash
-cd my-website
-npm run start
-```
+- A laptop with pre-installed software
+- A Nordic Thingy:91X - Will provide you with a Thingy:91X
+- A USB-C cable - Will provide you with a USB-C cable
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+## How to Use This Documentation
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Use this website during the workshop to access:
+- Step-by-step setup guides
+- Project examples
+- Troubleshooting resources
+- Reference links and tools
+
+
+Reachout to the organizers if you have any questions or need help. Enjoy the workshop!

@@ -7,6 +7,6 @@ This is the documentation for the Maker Train workshop at FAB25.
 
 ```bash
 npm install
-npm start
+npm run start
 ```
 
