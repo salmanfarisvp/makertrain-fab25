@@ -12,17 +12,6 @@ This workshop is part of the **FAB25 MakerTrain Experience** and is organized by
 
 In this workshop, you'll explore the [Nordic Thingy:91X](https://www.nordicsemi.com/Products/Development-hardware/Nordic-Thingy-91-X) to build connected solutions using cellular, GNSS, and sensor technologies. You'll also get introduced to key concepts in IoT, data transmission, and hardware prototyping using  [Zephyr RTOS](https://www.zephyrproject.org//).
 
-![Maker Train Poster](/img/introduction/workshop-poster.png)
-
-We have two workshops in this series:
-
-- **Workshop 1**
-
-[![Workshop 1 Poster](/img/introduction/workshop-one.png)](https://fab25.fabevent.org/programs/schedule?day=2025-07-07&title=hackster-iot-workshop-a-hands-on-journey-with-nordic-thingy91x-day-1&event=9ab05216-9ba8-412a-9e84-4e74799e6c6e)
-
-- **Workshop 2**
-
-[![Workshop 1 Poster](/img/introduction/workshop-two.png)](https://fab25.fabevent.org/programs/schedule?day=2025-07-11&title=hackster-iot-workshop-a-hands-on-journey-with-nordic-thingy91x-day-2&event=60f3eba6-f920-4c08-a3f0-154487750afd)
 
 
 ## What You'll Learn
