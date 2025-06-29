@@ -14,26 +14,6 @@ Maker Train is an immersive, hands-on workshop series that empowers participants
 - 📅 **Schedule:** Two-part workshop series (July 7th & 11th, 2025)
 - 🎓 **Learning Path:** From hardware setup to advanced IoT applications using the Nordic Thingy:91X.
 
-## 📚 Documentation Structure
-
-This documentation is organized into comprehensive sections:
-
-### 📋 Prerequisites
-Essential setup and preparation materials:
-- **[Install Tools](docs/prerequisites/install-tools)** - Development environment setup
-- **[Introduction to Thingy:91X](docs/prerequisites/introduction-to-thingy91x)** - Hardware overview and capabilities
-
-### 🛠️ Guides
-Step-by-step project tutorials:
-- **[Basic GPIO with nRF91](docs/guides/basic-gpio-nrf91)** - Fundamental GPIO operations
-- **[Blink LED](docs/guides/blink-led)** - Your first embedded project
-- **[Environmental Monitoring](docs/guides/build-a-environmental-monitoring)** - Sensor integration
-- **[On Track with Thingy:91](docs/guides/on-track-with-thingy91)** - GPS and tracking features
-- **[Thingy:91X Rescue Guide](docs/guides/thingy91x-rescue-guide)** - Troubleshooting and recovery
-- **[Escape to Prague](docs/guides/escape-to-prague)** - Advanced cellular connectivity
-
-### 🚀 Getting Started
-Begin with the **[Welcome to Maker Train](docs/welcome-to-maker-train)** page for workshop overview and schedule.
 
 ## 🛠️ Development Setup
 
