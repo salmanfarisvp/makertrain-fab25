@@ -5,7 +5,7 @@ slug: /
 
 # 🍀 Welcome to Maker Train!
 
-![Maker Train Poster](/img/welcome-to-maker-train/workshop-poster.png)
+![MakerTrain is an immersive, hands-on workshop series that empowers you to explore and build real-world IoT and embedded systems projects using cutting-edge cellular-connected hardware, the Nordic Thingy:91X. Sponsored by Nordic Semiconductor and Hackster.io at FAB25, 🇨🇿 Czechia .](/img/welcome-to-maker-train/workshop-poster.png)
 
 **MakerTrain** is an immersive, hands-on workshop series that empowers you to explore and build **real-world IoT and embedded systems projects** using cutting-edge cellular-connected hardware, the **Nordic Thingy:91X**. Sponsored by [Nordic Semiconductor](https://www.nordicsemi.com/) and [Hackster.io](https://www.hackster.io/) at [FAB25](https://fab25.fabevent.org/), 🇨🇿 Czechia .
 
