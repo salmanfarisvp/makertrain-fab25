@@ -55,7 +55,7 @@ Join us for an exciting two-part workshop series at FAB25! Each session is desig
 **⏰ 2:00 PM - 6:00 PM (4 hours)**
 **📍 Pavilion - E.02**
 
-**Focus:** Cellular connectivity, advanced projects, and real-world application development
+**Focus:** Advanced projects, and real-world application development
 
 📌 **[Add to Calendar](https://www.google.com/calendar/render?action=TEMPLATE&text=Hackster+IoT+Workshop%3A+A+Hands-On+Journey+with+Nordic+Thingy91X+DAY+2&dates=20250711T120000Z/20250711T160000Z&location=Pavilion+%E2%80%93+E.02&details=Join+Hackster%E2%80%99s+IoT+workshop+to+get+hands-on+experience+with+the+Nordic+Thingy%3A91X+for+cellular+IoT+development.+Perfect+for+asset+tracking+and+sensor-based+applications.%0A%0AEvent+details%3A+https%3A%2F%2Flink.makergram.com%2Ffab25day2)** | **[View Event Details](https://fab25.fabevent.org/programs/schedule?day=2025-07-11&title=hackster-iot-workshop-a-hands-on-journey-with-nordic-thingy91x-day-2&event=60f3eba6-f920-4c08-a3f0-154487750afd)**
 
