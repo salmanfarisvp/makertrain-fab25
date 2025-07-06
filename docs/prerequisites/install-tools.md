@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # 🛠️ Install Tools
 
+Follow the guide to install the necessary tools for the workshop.
+
 [![Part 1 Poster](/img/install-tools/part-1-poster.png)](https://www.hackster.io/Salmanfarisvp/1-makertrain-pre-departure-checklist-nrf-sdk-setup-e37098)
 
 By Following this [hackster guide](https://www.hackster.io/Salmanfarisvp/1-makertrain-pre-departure-checklist-nrf-sdk-setup-e37098), or below steps , please install necessary tools for the workshop.
