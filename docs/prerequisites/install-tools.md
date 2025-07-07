@@ -16,7 +16,7 @@ Download the installer for your platform from [SEGGER J-Link Software](https://w
 ---
 
 ### Step 2. Install nrfutil and the nrfutil device command
-Download the binary compatible with your OS from the nRF Util product page and store it somewhere on your disk drive
+Download the binary compatible with your OS from the [nRF Util product page](https://www.nordicsemi.com/Products/Development-tools/nRF-Util/Download?lang=en#infotabs) and store it somewhere on your disk drive
 
 **For windows:** `C:\nordic_tools\nrfutil.exe` and then
 
